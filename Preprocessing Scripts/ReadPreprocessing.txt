@@ -1,0 +1,10 @@
+subject to change into greater detailed instruction
+
+for now,
+
+place your dataset into the preprocessing folder and set the name to 'dataset'
+run the two scripts:
+  resize.py "python -m resize.py"
+  deletebw.py "python -m deletebw.py"
+
+you can change the program to change the path and use any folder you want
